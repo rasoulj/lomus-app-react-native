@@ -1,0 +1,7 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">FJ6dEvkOEg2cjW2F2wWe69I1aYz-4a7f8c9b-bdde-4d40-98b7-a22ab002485a</string>
+    <string name="app_name">شاپ</string>
+
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">undefined</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">undefined</string>
+</resources>
